@@ -46,4 +46,5 @@ html {
     transform-origin: 100%;
     transform: rotate(90deg);
     transition: 0.5s all;
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.88, 0.12);
   }
